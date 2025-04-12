@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ghoshsagnik
-- 👀 I’m interested in ...coding 
-- 🌱 I’m currently learning ...computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...AI and Machione Learning
+- 🌱 I’m currently learning ...Data Science
 
 <!---
 ghoshsagnik/ghoshsagnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
