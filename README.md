@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ghoshsagnik
-- 👀 I’m interested in ...AI and Machione Learning
+- 👀 I’m interested in ...AI and Machine Learning
 - 🌱 I’m currently learning ...Data Science
 
 <!---
